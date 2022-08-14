@@ -1,4 +1,7 @@
-html{
+*{
+    margin: 0;
+}
+ html{
     background-color: gold;
 }
 .button{
@@ -28,4 +31,25 @@ html{
     font-weight: bold;
     background-color: black;
     color: white;
+}
+.about{
+    align-items: center;
+    border: 2px solid black;
+    height: 25vh;
+    background-color: black;
+    margin-top: 1.5rem;
+    border-top-right-radius: 2rem;
+}
+.ah{
+  text-align: center;
+  margin: auto;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fff;
+  padding-top: 1rem;
+}
+.about .content{
+    padding: 1rem;
+    color: #fff;
+    font-size: large;
 }
