@@ -33,18 +33,15 @@
     color: white;
 }
 .about{
-    align-items: center;
-    border: 2px solid black;
-    height: 30vh;
     background-color: black;
+    padding: 2rem 1rem;
+    text-align: center;
     margin-top: 1.5rem;
     border-top-right-radius: 2rem;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .ah{
-  text-align: center;
-  margin: auto;
   font-size: 2rem;
   font-weight: bold;
   color: #fff;
