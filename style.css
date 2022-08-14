@@ -35,10 +35,12 @@
 .about{
     align-items: center;
     border: 2px solid black;
-    height: 25vh;
+    height: 30vh;
     background-color: black;
     margin-top: 1.5rem;
     border-top-right-radius: 2rem;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .ah{
   text-align: center;
